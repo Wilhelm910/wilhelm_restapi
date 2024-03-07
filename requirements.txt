@@ -7,3 +7,4 @@ six==1.16.0
 sqlparse==0.4.2
 virtualenv==20.15.1
 virtualenv-clone==0.5.7
+djangorestframework==3.14.0
